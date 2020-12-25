@@ -1,0 +1,14 @@
+D:\VsProjects\sqlString\sqlString\bin\Debug\sqlString.exe.config
+D:\VsProjects\sqlString\sqlString\bin\Debug\sqlString.exe
+D:\VsProjects\sqlString\sqlString\bin\Debug\sqlString.pdb
+D:\VsProjects\sqlString\sqlString\obj\Debug\sqlString.csprojAssemblyReference.cache
+D:\VsProjects\sqlString\sqlString\obj\Debug\sqlString.csproj.CoreCompileInputs.cache
+D:\VsProjects\sqlString\sqlString\obj\Debug\sqlString.exe
+D:\VsProjects\sqlString\sqlString\obj\Debug\sqlString.pdb
+C:\Users\MSI\Desktop\sqlString\sqlString\bin\Debug\sqlString.exe.config
+C:\Users\MSI\Desktop\sqlString\sqlString\bin\Debug\sqlString.exe
+C:\Users\MSI\Desktop\sqlString\sqlString\bin\Debug\sqlString.pdb
+C:\Users\MSI\Desktop\sqlString\sqlString\obj\Debug\sqlString.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\sqlString\sqlString\obj\Debug\sqlString.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sqlString\sqlString\obj\Debug\sqlString.exe
+C:\Users\MSI\Desktop\sqlString\sqlString\obj\Debug\sqlString.pdb
